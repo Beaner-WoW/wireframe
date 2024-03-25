@@ -1,0 +1,99 @@
+body{
+    font-family:Source Sans Pro, Arial, Helvetica, sans-serif;
+    background-color:#f2f2f2;
+}
+
+ol, ul {
+    padding-left:0;
+}
+
+.nav-logo {
+    width: 82px;
+    height:82px;
+}
+#navbarNav{
+    display:flex;
+    justify-content:end;
+}
+
+.nav-item{
+    /*background-color:#cccccc;*/
+    color:black;
+}
+
+.nav-item a:hover{
+    color:#b00c17;
+}
+
+.nav-link:hover{
+    color:#b00c17;
+}
+
+#jupiter:hover{
+    color:#d36a34;
+}
+
+.resources-section{
+    width:74.375vw;
+    background-color:#333333;
+    color:white;
+    margin-left:auto;
+    margin-right:auto;
+    overflow:auto;
+}
+
+.resources-section h3{
+    color:white;
+}
+
+.spacer-container{
+    margin-left:1em;
+    margin-right:1em;
+    margin-top:1em;
+}
+
+.feature-icon{
+    color:red;
+}
+
+.resources-section .row{
+    padding-left:0 !important;
+    padding-right:0 !important;
+    margin-right:0;
+    margin-left:0;
+}
+
+body > main > div.resources-section > div:nth-child(1){
+    padding-top:0;
+}
+.feature p{
+    width:auto;
+}
+
+.feature{
+    /*border:2px black solid;*/
+    padding-left:0;
+    padding-right:0;
+    width:33.33%;
+}
+
+
+
+.main-container{
+    background-color:#8A33FF;
+	height: 500px;
+}
+
+
+.card-text{
+	width: 900px;
+	height: 900px;
+}
+
+.carousel {
+	width: 100%;
+	height: 100%;
+	
+}
+
+
